@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: When I sorted sorted10000.txt, sor1 was the fastest program.
+
+sort2 uses: Merge sort
+
+How do you know?: When I sorted reversed10000.txt, sort2 was the fastest program.
+
+sort3 uses: Selection sort
+
+How do you know?: After determine which programs use Merge sort and Bubble sort, the last one is Selection sort.
